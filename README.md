@@ -1,4 +1,4 @@
-![](share/pixmaps/beggar_splash.png)
+![](src\qt\pivx\res\img\bg-splash.png)
 
 
 
