@@ -45,7 +45,7 @@ Links:
 
 • [Explorer](https://explorer.beggar.foundation/)
 
-• [Website]( https://beggar.foundation/
+• [Website](https://beggar.foundation/)
 
 • [Twitter](https://twitter.com/BeggarcoinTeam)
 
