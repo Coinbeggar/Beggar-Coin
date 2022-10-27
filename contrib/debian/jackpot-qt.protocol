@@ -1,0 +1,11 @@
+[Protocol]
+exec=beggar-qt '%u'
+protocol=beggar
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=beggar
+Comment= BGGR P2P Cryptocurrency
+Comment[fr]= BGGR, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= BGGR, eşten eşe kriptografik sanal para birimi
+Exec=beggar-qt %u
+Terminal=false
+Type=Application
+Icon=beggar128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=beggar-qt

@@ -1,0 +1,6 @@
+usr/local/bin/beggar-qt usr/bin
+share/pixmaps/beggar32.xpm usr/share/pixmaps
+share/pixmaps/beggar16.xpm usr/share/pixmaps
+share/pixmaps/beggar128.png usr/share/pixmaps
+debian/beggar-qt.desktop usr/share/applications
+debian/beggar-qt.protocol usr/share/kde4/services/
