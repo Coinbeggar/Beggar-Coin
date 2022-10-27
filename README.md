@@ -26,7 +26,7 @@ Specifications:
 
 • PoS Blocks:       Starting from 1001  
 
-• Premine:          1,000,000 MDDN
+• Premine:          1,000,000 BGGR
 
 • Maturity:         100 Confirmations  
 
