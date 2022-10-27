@@ -1,4 +1,4 @@
-![](src\qt\pivx\res\img\bg-splash.png)
+<a href="https://imgur.com/9S2j5mk"><img src="https://i.imgur.com/9S2j5mk.png" title="source: imgur.com" /></a>
 
 
 
