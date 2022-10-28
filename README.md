@@ -30,7 +30,7 @@ Specifications:
 
 • Maturity:         100 Confirmations  
 
-• Max Supply:       100000000 MDDN
+• Max Supply:       100000000 BGGR
 
 ---
 
